@@ -21,33 +21,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <properties>
-            <java.version>11</java.version>
+        <java.version>11</java.version>
     </properties>
-
-<!--    <dependencyManagement>
-        <dependencies>
-            <dependency>
-                <groupId>org.example</groupId>
-                <artifactId>domain</artifactId>
-                <version>${project.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.example</groupId>
-                <artifactId>application</artifactId>
-                <version>${project.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.example</groupId>
-                <artifactId>infrastructure</artifactId>
-                <version>${project.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.example</groupId>
-                <artifactId>ms-launcher</artifactId>
-                <version>${project.version}</version>
-            </dependency>
-     </dependencies>
-
-    </dependencyManagement>-->
 
 </project>
