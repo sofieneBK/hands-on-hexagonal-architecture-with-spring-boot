@@ -1,4 +1,4 @@
-# Hands-on-Hexagonal-Architecture-With-Spring-Boot
+# Hands-on Hexagonal Architecture With Spring-Boot
 Code for Hands-on Hexagonal Architecture With Spring Boot Tutorial
 
 Application's architecture :
