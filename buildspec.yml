@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/app-service.jar
+    - ms-launcher/target/ms-launcher-1.0-SNAPSHOT.jar
   discard-paths: yes
