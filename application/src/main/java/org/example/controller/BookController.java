@@ -38,4 +38,9 @@ public class BookController {
     public void deleteBookByID(@PathVariable long id) {
         bookServicePort.deleteBookById(id);
     }
+
+    @GetMapping("/health")
+    public String health() {
+        return  "HEALTH CHECK OK!";
+    }
 }
