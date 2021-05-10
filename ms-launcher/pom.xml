@@ -11,6 +11,12 @@
 
     <artifactId>ms-launcher</artifactId>
 
+    <properties>
+        <sonar.projectKey>sofieneBK_hands-on-hexagonal-architecture-with-spring-boot</sonar.projectKey>
+        <sonar.organization>sofienebk</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.example</groupId>
