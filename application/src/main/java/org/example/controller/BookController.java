@@ -41,6 +41,6 @@ public class BookController {
 
     @GetMapping("/health")
     public String health() {
-        return  "HEALTH CHECK OK!";
+        return  "HEALTH CHECK OK";
     }
 }
